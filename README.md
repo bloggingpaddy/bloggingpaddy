@@ -1,0 +1,4 @@
+- 👋 Hallo. Ich bin @bloggingpaddy aus dem Schwabenländle.
+- 👀 Meine Interessen sind Themen wie z.B. (mentale) Gesundheit, Aufbau von Communities, Geschichten schreiben und mehr.
+- 🌱 Im Moment lerne ich zu lernen um mit Python und GNU/Linux ein kleines Netzwerk aufzubauen.
+- 💞️ Ich bin ein freundlicher Mensch der gerne hilft. Also nimm gerne Kontakt auf.
